@@ -7,7 +7,7 @@ Currently a student (in summer break) who is studying more code...*once in a whi
 - 🧹 Learning about clean code,
 - ✏️ Learning about ways to refactor code,
 - 💭 Pondering about problems I'm having difficulty with,
-- ♻️ Implementing idiomatic and clean practices in different languages, and...
+- ♻️ Thinking about code architecture and how clean, maintainable software is written, and...
 - 🖥️ Coding, most of all!
 
 ## Programming Languages I've Interacted With/Want To Interact With
@@ -19,6 +19,8 @@ Currently a student (in summer break) who is studying more code...*once in a whi
 | ➡️ Go | Currently Learning |
 | 🟩 Elm | Currently Learning |
 | 💧 Elixir | Want to Learn |
+| 🟨 Zig | Want to Learn |
+| 👑 Nim | Want to Learn |
 | ❗ Bash | Want to Learn |
 | ☕ Java | Worked With (No Longer Following) |
 |  |  |
