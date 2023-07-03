@@ -16,13 +16,12 @@ Currently a student (in summer break) who is studying more code...*once in a whi
 |:---:|:---:|
 | 🦀 Rust | Am Working With + Currently Learning |
 | 🐍 Python | Am Working With |
-| ➡️ Go | Currently Learning |
-| 🟩 Elm | Currently Learning |
+| ➡️ Go | Am Working With |
+| ❗ Bash | Am Learning |
 | 💧 Elixir | Want to Learn |
-| 🟨 Zig | Want to Learn |
-| 👑 Nim | Want to Learn |
-| ❗ Bash | Want to Learn |
+| 🐫 OCaml | Want to Learn |
+| 🟩 Elm | Worked With (No Longer Following) |
+| 👑 Nim | Worked With (No Longer Following) |
 | ☕ Java | Worked With (No Longer Following) |
-|  |  |
 
 ✨ I look forward to spending my time and journey here in Github! ✨
